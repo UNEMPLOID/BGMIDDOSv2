@@ -1,0 +1,9 @@
+pip install
+
+telebot
+
+requests 
+
+beautifulsoup4 
+
+selenium

